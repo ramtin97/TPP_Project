@@ -18,7 +18,7 @@ add more features such as different fonts and enabling user to create different 
 
 Functional Requirements
 
--	The program will present the user with a welcoming start page.
+-	The program will present the user with a welcoming start page which includes the name of the team
 
 -	The welcoming page will include a section for user to type the given username and password.
 

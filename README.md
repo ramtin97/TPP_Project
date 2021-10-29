@@ -24,14 +24,29 @@ Functional Requirements
 
 -	After user types the username and password, user has to click on “sign in” button. 
 
--	If the username and password is correct, one will get directed to another page.
+-	If the username and password is correct, one will get directed to main page.
 
--	By accessing the new page, user type/delete their important notes.
+-	By accessing the new page, user can create new notes or access the older notes.
 
--	In this page user can create new notes and has access to multiple features as different fonts.
+-	When user hover the mouse on each note a short description will appear which includes the title.
 
--	Once the user is finished, one can click on “save” button located below the page to save their notes in the server.
+-	By selecting on any of the notes user will be directed to notepad page.
 
--	By clicking on “log out” button user will be directed to the welcoming page again.
+-	In this page user can create new notes or change older notes. 
 
+-	This page also allows for different font formatings such as font size, type and color.
+
+-	Once the user is finished, one can click on one of buttons presented  below the page.
+
+-	Three button that appear below are "save", "delete", and "edit".
+
+-	By clicking on on any of the buttons user will get directed back to main page.
+
+- There will also be a navigation page and source page where the buttons will be located on top sides respectively.
+
+- By clicking on source page user can get more information about the website and its creators. 
+
+- Navigation allows for changing names and logging out.
+
+- By clicking on logging out user will be logged out and directed back to the log in page.
 

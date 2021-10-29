@@ -18,35 +18,25 @@ add more features such as different fonts and enabling user to create different 
 
 Functional Requirements
 
--	The program will present the user with a welcoming start page which includes the name of the team
+-	The program presents the user with a welcoming start page which includes the name of the team.
 
 -	The welcoming page will include a section for user to type the given username and password.
 
 -	After user types the username and password, user has to click on “sign in” button. 
 
--	If the username and password is correct, one will get directed to main page.
+-	If the username and password is correct, user will get directed to main page "My Notes".
 
--	By accessing the new page, user can create new notes or access the older notes.
+-	By accessing the main page, user can create new notes or access the older notes.
 
--	When user hover the mouse on each note a short description will appear which includes the title.
+- "My Notes" page also allows the user to access settings, profile and logout through a drop-down navigation sidebar located on top right side of header.
 
--	By selecting on any of the notes user will be directed to notepad page.
+-	Hovering mouse on each note allows the user to see title of the older notes on note boxes.
 
--	In this page user can create new notes or change older notes. 
+-	User gets directed to a new page "Notepad" by clicking on "new note" box or the older ones by selecting on any created notes available in main page. 
 
--	This page also allows for different font formatings such as font size, type and color.
+-	In "Notepad" page user can create new notes or edit the older notes and access formating features as font size, type and color located at the top navigation bar.
 
--	Once the user is finished, one can click on one of buttons presented  below the page.
+-	Once finished taking note, user can save, delete, or go back to "My Notes" page through the navigation drop-down sidebar located on left side of the page.    
 
--	Three button that appear below are "save", "delete", and "edit".
-
--	By clicking on on any of the buttons user will get directed back to main page.
-
-- There will also be a navigation page and source page where the buttons will be located on top sides respectively.
-
-- By clicking on source page user can get more information about the website and its creators. 
-
-- Navigation allows for changing names and logging out.
-
-- By clicking on logging out user will be logged out and directed back to the log in page.
+- By clicking on logout located on nagivation sidebar user will be redirected back to the log in page.
 

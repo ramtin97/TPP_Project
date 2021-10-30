@@ -10,6 +10,7 @@ Ansh Manchanda anshm@my.yorku.ca Section B Lab 4
 Project Title: Password Protected Diary
 
 In this project, The Password Protektors group aims to create a webpage where users can write their important notes and safely lock them in the server which can only be accessed by the given password. Users of this webpage will have the ability to save their notes and add new notes every time they access the webpage. The Password Protektors team aims to add more features such as different fonts and enabling user to create different notes over the course of this project.
+
 Functional Requirements
 
 •	The program presents the user with a welcoming start page which includes the name of the team.
